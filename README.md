@@ -1,0 +1,1 @@
+list of skill I got making this project
