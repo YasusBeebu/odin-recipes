@@ -1,1 +1,1 @@
-list of skill I got making this project
+Project to refresh some html skills
